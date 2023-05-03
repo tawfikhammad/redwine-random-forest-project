@@ -1,8 +1,15 @@
 # red-wine--random-forest-prodect
-that is classification task that predicts quality of red wine if it's good or not.
-This datasets is related to red variants of the Portuguese "Vinho Verde" wine. For more details, consult the reference [Cortez et al., 2009]. Due to privacy and logistic issues, only physicochemical (inputs) and sensory (the output) variables are available (e.g. there is no data about grape types, wine brand, wine selling price, etc.).
+this is classification task that predicts quality of red wine if it's good or not.
 
-Dataset content :
+## project details:
+
+this is classification task that predicts quality of red wine if it's good or not.
+
+
+## Dataset content :
+
+
+* This datasets is related to red variants of the Portuguese "Vinho Verde" wine. For more details, consult the reference [Cortez et al., 2009]. Due to privacy and logistic issues, only physicochemical (inputs) and sensory (the output) variables are available (e.g. there is no data about grape types, wine brand, wine selling price, etc.).
 
 
 1 fixed acidity : most acids involved with wine or fixed or nonvolatile.
@@ -28,3 +35,10 @@ Dataset content :
 11 alcohol : the percent alcohol content of the wine
 
 12 quality : output variable (based on sensory data, score between 3 and 8)
+
+
+## build with :
+
+* Python
+* Pandas
+* sklearn 
