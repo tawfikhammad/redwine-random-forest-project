@@ -3,6 +3,8 @@ that is classification task that predicts quality of red wine if it's good or no
 This datasets is related to red variants of the Portuguese "Vinho Verde" wine. For more details, consult the reference [Cortez et al., 2009]. Due to privacy and logistic issues, only physicochemical (inputs) and sensory (the output) variables are available (e.g. there is no data about grape types, wine brand, wine selling price, etc.).
 
 Dataset content :
+
+
 1 fixed acidity : most acids involved with wine or fixed or nonvolatile.
 
 2 volatile acidity : the amount of acetic acid in wine .
