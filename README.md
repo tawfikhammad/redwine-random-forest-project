@@ -1,4 +1,4 @@
-# red-wine--random-forest-prodect
+# red-wine--random-forest-project
 this is classification task that predicts quality of red wine if it's good or not.
 
 ## project details:
